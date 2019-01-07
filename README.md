@@ -1,1 +1,1 @@
-# DP_Logistic_regression-NN-mindset-
+# DP Logistic regression NN mindset
