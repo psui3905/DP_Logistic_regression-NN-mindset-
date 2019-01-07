@@ -372,7 +372,7 @@ plt.title("Learning rate =" + str(d["learning_rate"]))
 print("\n ========= Individual cat picture testing part ===========\n")
 
 # change this to the name of your image file 
-my_image = "cat3.jpg"   
+my_image = "cat.jpg"   
 # Preprocess the image to fit your algorithm.
 fname = "images/" + my_image
 image = np.array(ndimage.imread(fname, flatten=False))
